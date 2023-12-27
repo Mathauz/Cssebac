@@ -63,7 +63,7 @@
     }
 
     .articles article a {
-        background-color: blue;
+        background-color: rgb blue;
         color: white;
         padding: 8px;
         display: inline-block;
