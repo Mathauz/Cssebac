@@ -63,7 +63,7 @@
     }
 
     .articles article a {
-        background-color: blue;
+        background-color: rgb blue;
         color: white;
         padding: 8px;
         display: inline-block;
@@ -103,4 +103,20 @@ section h2 {
 }
 #economy .articles article a {
     background-color: #ff9f1a;
+}
+
+#technology {
+    background-color: rgb(179, 151, 245);
+}
+
+#technology .articles article a {
+    background-color: rgb(192, 60, 245);
+}
+
+#Health {
+    background-color: rgb(241, 104, 104);
+}
+
+#Health .articles article a {
+    background-color: red;
 }
